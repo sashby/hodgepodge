@@ -1,0 +1,13 @@
+Package: hodgepodge
+Title: Contains Handy Functions for Me! 
+Version: 0.0.0.9000
+Authors@R: person("Stefania", "Ashby", email = "stefania@uoregon.edu", role = c("aut", "cre"))
+Description: This package contains functions for standard error estimation, crossvalidated correlations, as well as a function to omit any variables from a dataset that contains character(string) structures.
+Depends: R (>= 3.3.3),
+	pracma
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports:
+	pracma
+RoxygenNote: 6.0.1
